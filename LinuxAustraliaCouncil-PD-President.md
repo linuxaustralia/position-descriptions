@@ -26,7 +26,7 @@ One year
 
 Approximately 6 hours per week
 
-**Responsibilities: **
+<span id="anchor-5"></span>**Responsibilities:**
 
   - Chair meetings of the Linux Australia Council, building consensus
     and driving clear actions and outcomes
