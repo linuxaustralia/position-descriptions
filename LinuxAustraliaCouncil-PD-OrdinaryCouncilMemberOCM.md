@@ -30,14 +30,14 @@ meetings.
 
 4-5 hours per fortnight
 
-**Responsibilities: **
+<span id="anchor-6"></span>**Responsibilities:**
 
   - Establish policies and procedures for administering the functions
     and activities of Linux Australia, in accordance with the
     organisation’s values
   - Enhance the organisation’s public image
 
-**Role Specific Responsibilities: **
+<span id="anchor-7"></span>**Role Specific Responsibilities:**
 
   - Participation in board meetings, sub-committee meetings and events
   - Assume leadership in Linux Australia’s sub-committee activities
