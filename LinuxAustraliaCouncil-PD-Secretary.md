@@ -24,7 +24,7 @@ One year
 
 5 hours per week (more during peak periods)
 
-**Responsibilities: **
+<span id="anchor-4"></span>**Responsibilities:**
 
   - Manage communications with organisations/businesses, members,
     stakeholders and the council.
