@@ -24,7 +24,7 @@ One year
 4-5 hours per week (more during peak periods such as quarterly BAS
 statements and preparation of Annual Report)
 
-**Responsibilities: **
+<span id="anchor-5"></span>**Responsibilities:**
 
   - All money due to the association is collected and received and that
     all payments authorised by the association are made, and
