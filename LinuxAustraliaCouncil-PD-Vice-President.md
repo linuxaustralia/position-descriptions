@@ -28,7 +28,7 @@ One year
 
 4 hours per week
 
-**Responsibilities: **
+<span id="anchor-5"></span>**Responsibilities:**
 
   - Chair meetings of the Linux Australia Council when the President is
     not available.
