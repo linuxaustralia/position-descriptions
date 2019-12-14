@@ -1,13 +1,12 @@
 ![Linux Australia](images/Linux-Logo-primary.png)
-
-# Linux Australia - Position Description:
-# President of the Linux Australia Council
+# Linux Australia - Position Description: President of the Linux Australia Council
 ## Role:
 President
 ## Purpose:
 The President ensures that the Linux Australia council fulfills its responsibilities for the
 governance of the organisation. They will partner with Council members to help achieve the
 mission of the organisation.
+
 The President has overarching responsibility for the strategic direction of the organisation
 and the fulfilment of the organisation’s values, mission and objectives.
 ## Term:
