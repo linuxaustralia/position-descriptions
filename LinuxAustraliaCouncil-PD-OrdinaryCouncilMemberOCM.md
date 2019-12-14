@@ -1,8 +1,6 @@
 # Linux Australia - Position Description: Ordinary Council Member (OCM) of the Linux Australia Council
 
-![Linux Australia](https://raw.githubusercontent.com/linuxaustralia/brand-guidelines/master/logo/Options/PNG/Linux-Logo-primary.png)
-![Linux Australia](Pictures/10000201000003BC000001CEEA5FFC6CEC27A34D.png)
-![Linux Australia thumb](Thumbnails/thumbnail.png)
+![Linux Australia](https://raw.githubusercontent.com/linuxaustralia/brand-guidelines/master/logo/Options/PNG/Linux-Logo-primary.png =250x)
 
 ## Role:
 Ordinary Council Member (OCM)Purpose:The OCM ensures that the Linux Australia Council fulfills its
