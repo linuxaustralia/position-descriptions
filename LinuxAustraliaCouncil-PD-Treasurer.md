@@ -1,6 +1,7 @@
 ![Linux Australia](images/Linux-Logo-primary.png)
 
-# Linux Australia - Position Description: Treasurer of the Linux Australia Council
+# Linux Australia - Position Description:
+# Treasurer of the Linux Australia Council
 
 ## Role:
 Treasurer
