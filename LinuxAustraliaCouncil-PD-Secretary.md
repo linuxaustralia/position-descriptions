@@ -23,7 +23,7 @@ the council.
 * Maintenance of MemberDB and the memberships
   * approvals, checking of membership application validity
     * Including
-* mailing lists, approvals, moderation
+      * mailing lists, approvals, moderation
 * Managing actions/subcommittees for the Council.
   * This would typically include:
     * approvals of payments through our bank
