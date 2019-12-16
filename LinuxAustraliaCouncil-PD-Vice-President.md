@@ -1,4 +1,3 @@
-![Linux Australia](images/Linux-Logo-primary.png)
 # Linux Australia - Position Description: Vice-President of the Linux Australia Council
 ## Role:
 Vice-President
