@@ -19,7 +19,7 @@ the council. This would typically include:
   * social media monitoring (work with the Media team to achieve this)
   * Mail correspondence
   * Approve payments in the Council’s banking system where required
-* Maintenance of MemberDB including:
+* Maintenance of the membership database including:
   * Checking of membership application validity
   * Membership approvals
   * Membership removal requests
