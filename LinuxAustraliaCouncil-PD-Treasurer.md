@@ -1,18 +1,13 @@
-# Linux Australia - Position Description:
-# Treasurer of the Linux Australia Council
-
+# Linux Australia - Position Description: Treasurer of the Linux Australia Council
 ## Role:
 Treasurer
-
 ## Purpose:
 The Treasurer ensures that the Linux Australia Council fulfills its fiduciary and other legal
 responsibilities, maintains financial liquidity, manages financial and other risk, monitors and
 controls the organisation’s finances, bank accounts, financial systems and other financial
 instruments such as credit cards.
-
 ## Term:
 One year
-
 ## Approximate commitment of time:
 4-5 hours per week (more during peak periods such as quarterly BAS statements and preparation of Annual Report)
 ## Responsibilities:

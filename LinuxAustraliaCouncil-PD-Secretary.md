@@ -13,23 +13,21 @@ One year
 5 hours per week (more during peak periods)
 ## Responsibilities:
 * Manage communications with organisations/businesses, members, stakeholders and
-the council.
-  * This would typically include:
-    * minute taking
-    * general website maintenance
-    * social media monitoring (work with the Media team to achieve this)
-    * Mail correspondence
-    * Approve payments in the Council’s banking system where required
-* Maintenance of MemberDB and the memberships
-  * approvals, checking of membership application validity
-    * Including
-      * mailing lists, approvals, moderation
-* Managing actions/subcommittees for the Council.
-  * This would typically include:
-    * approvals of payments through our bank
-    * Depositing of cheques for events
-    * Distribution of invoices that may be received via mail
-    * Managing of the incoming mailbox (mail is forwarded from the LA PO
+the council. This would typically include:
+  * minute taking
+  * general website maintenance
+  * social media monitoring (work with the Media team to achieve this)
+  * Mail correspondence
+  * Approve payments in the Council’s banking system where required
+* Maintenance of MemberDB including:
+  * Checking of membership application validity
+  * Membership approvals
+  * Membership removal requests
+* Managing actions/subcommittees for the Council. This would typically include:
+  * approvals of payments through our bank
+  * Depositing of cheques for events
+  * Distribution of invoices that may be received via mail
+  * Managing of the incoming mailbox (mail is forwarded from the LA PO
 Box to the Secretary’s preferred address)
 * Organisation of AGM and SGMs
   * printouts, room bookings, reports agendas
