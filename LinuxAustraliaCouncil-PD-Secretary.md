@@ -23,6 +23,9 @@ the council. This would typically include:
   * Checking of membership application validity
   * Membership approvals
   * Membership removal requests
+* Oversight of mailing lists
+  * Membership approvals and moderation queue approvals
+  * Possibly delegting control to subcomittees and other members
 * Managing actions/subcommittees for the Council. This would typically include:
   * approvals of payments through our bank
   * Depositing of cheques for events
